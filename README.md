@@ -1,0 +1,2 @@
+# PraktikumMYSQL
+Praktikum Koneksi MYSQL
